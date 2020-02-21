@@ -55,11 +55,11 @@
           </li>
           <li class="nav-item">
             <a
-              v-scroll-to="{ el:'#pricing', offset: -5}"
+              v-scroll-to="{ el:'#testi', offset: -5}"
               class="nav-link"
-              data-scroll-spy-id="pricing"
+              data-scroll-spy-id="testi"
               href="javascript: void(0);"
-            >Pricing</a>
+            >Testimonial</a>
           </li>
           <li class="nav-item">
             <a
@@ -78,13 +78,7 @@
             >Contact</a>
           </li>
         </ul>
-        <div class="nav-button ml-auto">
-          <ul class="nav navbar-nav navbar-right">
-            <li>
-              <button type="button" class="btn btn-custom navbar-btn btn-rounded">Try it Free</button>
-            </li>
-          </ul>
-        </div>
+        
       </div>
     </div>
   </nav>

@@ -14,10 +14,10 @@ export default {
       <div class="row align-items-center">
         <div class="col-lg-5 order-2 order-lg-1">
           <div class="features-box mt-5 mt-lg-0">
-            <h3>A digital web design studio creating modern & engaging online</h3>
+            <h3>A modern freight company bridging the gap between you and your goods</h3>
             <p
               class="text-muted web-desc"
-            >Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+            >Get your goods delivered perfecty with no fuss. whatever your business needs, we'll get it to you.</p>
             <ul class="text-muted list-unstyled margin-t-30 features-item-list">
               <li class>We put a lot of effort in design.</li>
               <li class>The most important ingredient of successful website.</li>

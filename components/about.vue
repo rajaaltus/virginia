@@ -31,8 +31,8 @@ export default {
                 <img alt src="@/assets/images/team/img-1.jpg" class="img-fluid rounded" />
               </div>
             </div>
-            <h4 class="team-name">Frank Johnson</h4>
-            <p class="text-uppercase team-designation">CEO</p>
+            <h4 class="team-name">Virginia Princy Suresh</h4>
+            <p class="text-uppercase team-designation">Director</p>
           </div>
         </div>
 
@@ -43,8 +43,8 @@ export default {
                 <img alt src="@/assets/images/team/img-2.jpg" class="img-fluid rounded" />
               </div>
             </div>
-            <h4 class="team-name">Elaine Stclair</h4>
-            <p class="text-uppercase team-designation">Designer</p>
+            <h4 class="team-name">Franklin S John</h4>
+            <p class="text-uppercase team-designation">CEO</p>
           </div>
         </div>
 
@@ -55,8 +55,8 @@ export default {
                 <img alt src="@/assets/images/team/img-3.jpg" class="img-fluid rounded" />
               </div>
             </div>
-            <h4 class="team-name">Wanda Arthur</h4>
-            <p class="text-uppercase team-designation">Developer</p>
+            <h4 class="team-name">Dam Anto K</h4>
+            <p class="text-uppercase team-designation">General Manager</p>
           </div>
         </div>
 
@@ -67,8 +67,8 @@ export default {
                 <img alt src="@/assets/images/team/img-4.jpg" class="img-fluid rounded" />
               </div>
             </div>
-            <h4 class="team-name">Joshua Stemple</h4>
-            <p class="text-uppercase team-designation">Manager</p>
+            <h4 class="team-name">Godwin Janarthan</h4>
+            <p class="text-uppercase team-designation">IT Support &amp; Communications</p>
           </div>
         </div>
       </div>

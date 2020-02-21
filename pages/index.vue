@@ -17,7 +17,7 @@
               <h1 class="home-title">We bring your world closer</h1>
               <p
                 class="padding-t-15 home-desc mx-auto"
-              >Maecenas class semper class semper sollicitudin lectus lorem iaculis imperdiet aliquam vehicula tempor auctor curabitur pede aenean ornare.</p>
+              >We are connected to ports around the world to bring you your goods.</p>
               <p class="play-shadow margin-l-r-auto mb-4">
                 <a v-b-modal.modal class="play-btn video-play-icon">
                   <i class="mdi mdi-play text-center"></i>
@@ -100,13 +100,11 @@
       <Features />
       <Services />
       <About />
-      <Pricing />
       <Testimonial />
       <GetStarted />
       <Blog />
       <Contact />
       <Footer />
-      <Switcher />
     </div>
   </div>
 </template>
@@ -122,7 +120,7 @@ import GetStarted from "@/components/getstarted";
 import Blog from "@/components/blog";
 import Contact from "@/components/contact";
 import Footer from "@/components/footer";
-import Switcher from "@/components/switcher";
+
 
 /**
  * Index-2 component
@@ -143,8 +141,7 @@ export default {
     GetStarted,
     Blog,
     Contact,
-    Footer,
-    Switcher
+    Footer
   }
 };
 </script>

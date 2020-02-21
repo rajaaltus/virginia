@@ -24,7 +24,7 @@ export default {
               <div class="media">
                 <i class="pe-7s-diamond text-custom"></i>
                 <div class="media-body ml-4">
-                  <h4>Digital Design</h4>
+                  <h4>Import</h4>
                   <p
                     class="pt-2 text-muted"
                   >Some quick example text to build on the card title and make up the bulk of the card's content. Moltin gives you the platform.</p>
@@ -37,7 +37,7 @@ export default {
               <div class="media">
                 <i class="pe-7s-display2 text-custom"></i>
                 <div class="media-body ml-4">
-                  <h4>Unlimited Colors</h4>
+                  <h4>Export</h4>
                   <p
                     class="pt-2 text-muted"
                   >Credibly brand standards compliant users without extensible services. Anibh euismod tincidunt ut laoreet Ipsum passage.</p>
@@ -50,7 +50,7 @@ export default {
               <div class="media">
                 <i class="pe-7s-piggy text-custom"></i>
                 <div class="media-body ml-4">
-                  <h4>Strategy Solutions</h4>
+                  <h4>Trading</h4>
                   <p
                     class="pt-2 text-muted"
                   >Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean necessary regelialia.</p>
@@ -65,7 +65,7 @@ export default {
               <div class="media">
                 <i class="pe-7s-science text-custom"></i>
                 <div class="media-body ml-4">
-                  <h4>Awesome Support</h4>
+                  <h4>Medical Supplies</h4>
                   <p
                     class="pt-2 text-muted"
                   >It is a paradisematic country, in which roasted parts of sentences fly into your mouth leave for the far World.</p>
@@ -78,7 +78,7 @@ export default {
               <div class="media">
                 <i class="pe-7s-news-paper text-custom"></i>
                 <div class="media-body ml-4">
-                  <h4>Truly Multipurpose</h4>
+                  <h4>FMG Products</h4>
                   <p
                     class="pt-2 text-muted"
                   >Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
@@ -91,7 +91,7 @@ export default {
               <div class="media">
                 <i class="pe-7s-plane text-custom"></i>
                 <div class="media-body ml-4">
-                  <h4>Easy to customize</h4>
+                  <h4>Spices</h4>
                   <p
                     class="pt-2 text-muted"
                   >Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia.</p>
@@ -107,7 +107,7 @@ export default {
               <div class="media">
                 <i class="pe-7s-arc text-custom"></i>
                 <div class="media-body ml-4">
-                  <h4>Pixel Perfect Design</h4>
+                  <h4>Supply On-Demand</h4>
                   <p
                     class="pt-2 text-muted"
                   >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
@@ -120,7 +120,7 @@ export default {
               <div class="media">
                 <i class="pe-7s-tools text-custom"></i>
                 <div class="media-body ml-4">
-                  <h4>Perfect Toolbox</h4>
+                  <h4>Regular Supply Chain</h4>
                   <p
                     class="pt-2 text-muted"
                   >Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.</p>
@@ -133,7 +133,7 @@ export default {
               <div class="media">
                 <i class="pe-7s-timer text-custom"></i>
                 <div class="media-body ml-4">
-                  <h4>Awesome Design</h4>
+                  <h4>Large Scale quantities</h4>
                   <p
                     class="pt-2 text-muted"
                   >All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.</p>
@@ -155,14 +155,14 @@ export default {
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="text-white">Build your dream website today</h2>
+            <h2 class="text-white">Want to know about our pricing?</h2>
             <p
               class="padding-t-15 home-desc mx-auto"
-            >But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her.</p>
+            >Our dedicated support team will assist you to get the overall cost of your demand at the earliest.</p>
             <a
-              href="#"
+              href="#contact"
               class="btn btn-bg-white margin-t-30"
-            >View Plan & Pricing</a>
+            >Send Enquiry</a>
           </div>
         </div>
       </div>
