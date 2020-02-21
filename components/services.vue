@@ -22,7 +22,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-diamond text-custom"></i>
+                <i class="pe-7s-gift text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>Import</h4>
                   <p
@@ -35,7 +35,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-display2 text-custom"></i>
+                <i class="pe-7s-plane text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>Export</h4>
                   <p
@@ -48,9 +48,9 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-piggy text-custom"></i>
+                <i class="pe-7s-way text-custom"></i>
                 <div class="media-body ml-4">
-                  <h4>Trading</h4>
+                  <h4>Consulting</h4>
                   <p
                     class="pt-2 text-muted"
                   >Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean necessary regelialia.</p>
@@ -63,7 +63,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-science text-custom"></i>
+                <i class="pe-7s-help2 text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>Medical Supplies</h4>
                   <p
@@ -76,7 +76,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-news-paper text-custom"></i>
+                <i class="pe-7s-star text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>FMG Products</h4>
                   <p
@@ -89,7 +89,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-plane text-custom"></i>
+                <i class="pe-7s-leaf text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>Spices</h4>
                   <p
@@ -105,7 +105,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-arc text-custom"></i>
+                <i class="pe-7s-hammer text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>Supply On-Demand</h4>
                   <p
@@ -118,7 +118,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-tools text-custom"></i>
+                <i class="pe-7s-helm text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>Regular Supply Chain</h4>
                   <p
@@ -131,7 +131,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-timer text-custom"></i>
+                <i class="pe-7s-exapnd2 text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>Large Scale quantities</h4>
                   <p
@@ -149,7 +149,7 @@ export default {
     <!--START WEBSITE-DESCRIPTION-->
     <section
       class="section bg-web-desc"
-      :style="{'background-image': 'url(' + require('@/assets/images/img-1.jpg') + ')', 'background-size': 'cover','background-position': 'center'}"
+      :style="{'background-image': 'url(' + require('@/assets/images/call.jpg') + ')', 'background-size': 'cover','background-position': 'center'}"
     >
       <div class="bg-overlay"></div>
       <div class="container">

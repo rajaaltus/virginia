@@ -23,7 +23,7 @@
                   <i class="mdi mdi-play text-center"></i>
                 </a>
                 <b-modal id="modal" hide-footer size="lg" centered header-close-variant="white">
-                  <youtube video-id="lG0Ys-2d4MA" ref="youtube" width="900" height="500"></youtube>
+                  <youtube video-id="9VHdmh4MFd4" ref="youtube" width="900" height="500"></youtube>
                 </b-modal>
               </p>
             </div>

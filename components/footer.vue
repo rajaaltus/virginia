@@ -14,7 +14,7 @@ export default {
       <div class="container">
         <div class="row">
           <div class="col-lg-3 margin-t-20">
-            <h4>HIRIC</h4>
+            <img src="/logo.png" alt="" width="50%">
             <div class="text-muted margin-t-20">
               <ul class="list-unstyled footer-list">
                 <li>
@@ -92,7 +92,7 @@ export default {
             <div class="float-left pull-none">
               <p
                 class="copy-rights text-muted mb-3 mb-sm-0"
-              >2019 - {{ new Date().getFullYear()}} © Hiric - Themesbrand</p>
+              >2019 - {{ new Date().getFullYear()}} © VIRGINIA Enterprises - Powered by ALTUS</p>
             </div>
             <div class="float-right pull-none">
               <ul class="list-inline social m-0">

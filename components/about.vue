@@ -28,7 +28,7 @@ export default {
           <div class="team-box text-center">
             <div class="team-wrapper">
               <div class="team-member">
-                <img alt src="@/assets/images/team/img-1.jpg" class="img-fluid rounded" />
+                <img alt src="@/assets/images/team/princy.jpg" class="img-fluid rounded" />
               </div>
             </div>
             <h4 class="team-name">Virginia Princy Suresh</h4>
@@ -40,7 +40,7 @@ export default {
           <div class="team-box text-center">
             <div class="team-wrapper">
               <div class="team-member">
-                <img alt src="@/assets/images/team/img-2.jpg" class="img-fluid rounded" />
+                <img alt src="@/assets/images/team/raja.jpg" class="img-fluid rounded" />
               </div>
             </div>
             <h4 class="team-name">Franklin S John</h4>
@@ -52,7 +52,7 @@ export default {
           <div class="team-box text-center">
             <div class="team-wrapper">
               <div class="team-member">
-                <img alt src="@/assets/images/team/img-3.jpg" class="img-fluid rounded" />
+                <img alt src="@/assets/images/team/damu.jpg" class="img-fluid rounded" />
               </div>
             </div>
             <h4 class="team-name">Dam Anto K</h4>
@@ -64,7 +64,7 @@ export default {
           <div class="team-box text-center">
             <div class="team-wrapper">
               <div class="team-member">
-                <img alt src="@/assets/images/team/img-4.jpg" class="img-fluid rounded" />
+                <img alt src="@/assets/images/team/godwin.jpg" class="img-fluid rounded" />
               </div>
             </div>
             <h4 class="team-name">Godwin Janarthan</h4>

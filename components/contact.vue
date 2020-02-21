@@ -26,14 +26,14 @@ export default {
             <p class="mt-4">
               <span class="h5">Office Address 1:</span>
               <br />
-              <span class="text-muted d-block mt-2">4461 Cedar Street Moro, AR 72368</span>
+              <span class="text-muted d-block mt-2">37, Ban Thapalanxay, Sisattanak, Vientiane, Laos.</span>
             </p>
             <p class="mt-4">
-              <span class="h5">Office Address 2:</span>
+              <span class="h5">Mail us @:</span>
               <br />
               <span class="text-muted d-block mt-2">
-                2467 Swick Hill Street
-                <br />New Orleans, LA 70171
+               info@virginiaexim.com
+                <br />sales@virginiaexim.com
               </span>
             </p>
             <p class="mt-4">

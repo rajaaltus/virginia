@@ -17,11 +17,11 @@ export default {
             <h3>A modern freight company bridging the gap between you and your goods</h3>
             <p
               class="text-muted web-desc"
-            >Get your goods delivered perfecty with no fuss. whatever your business needs, we'll get it to you.</p>
+            >Get your goods delivered perfecty with no fuss. Whatever your business needs, We'll get it to you.</p>
             <ul class="text-muted list-unstyled margin-t-30 features-item-list">
-              <li class>We put a lot of effort in design.</li>
-              <li class>The most important ingredient of successful website.</li>
-              <li class>Submit Your Orgnization.</li>
+              <li class>Competitive rates. Personal service.</li>
+              <li class>Tailored to your requirements.</li>
+              <li class>On-call 24 hours a day, 365 days a year.</li>
             </ul>
             <a href="#" class="btn btn-custom margin-t-30">
               Learn More
@@ -31,7 +31,7 @@ export default {
         </div>
         <div class="col-lg-7 order-1 order-lg-2">
           <div class="features-img mx-auto mr-lg-0">
-            <img src="@/assets/images/growth-analytics.svg" alt="macbook image" class="img-fluid" />
+            <img src="@/assets/images/about-img.png" alt="macbook image" class="img-fluid" />
           </div>
         </div>
       </div>
