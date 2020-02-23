@@ -99,7 +99,7 @@
 
       <Features />
       <Services />
-      <About />
+      <!-- <About /> -->
       <Testimonial />
       <GetStarted />
       <Blog />
@@ -113,7 +113,7 @@
 import Navbar from "@/components/navbar";
 import Features from "@/components/features";
 import Services from "@/components/services";
-import About from "@/components/about";
+// import About from "@/components/about";
 import Pricing from "@/components/pricing";
 import Testimonial from "@/components/testimonial";
 import GetStarted from "@/components/getstarted";
@@ -135,7 +135,6 @@ export default {
     Navbar,
     Features,
     Services,
-    About,
     Pricing,
     Testimonial,
     GetStarted,

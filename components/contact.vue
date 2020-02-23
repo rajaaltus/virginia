@@ -24,7 +24,7 @@ export default {
         <div class="col-lg-4">
           <div class="mt-4 pt-4">
             <p class="mt-4">
-              <span class="h5">Office Address 1:</span>
+              <span class="h5">Office Address:</span>
               <br />
               <span class="text-muted d-block mt-2">37, Ban Thapalanxay, Sisattanak, Vientiane, Laos.</span>
             </p>

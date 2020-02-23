@@ -13,9 +13,10 @@ export default {
           <div class="col-lg-8 offset-lg-2">
             <h1 class="section-title text-center">Our Services</h1>
             <div class="section-title-border margin-t-20"></div>
-            <p
-              class="section-subtitle text-muted text-center padding-t-30 font-secondary"
-            >We craft digital, graphic and dimensional thinking, to create category leading brand experiences that have meaning and add a value for our clients.</p>
+            <blockquote class="blockquote text-center">
+              <p class="lead pt-3">"Instead of focusing on the competition, focus on the customer."</p>
+              <footer class="blockquote-footer text-right">Scott Cook <cite title="Source Title">Intuit</cite></footer>
+            </blockquote>
           </div>
         </div>
         <div class="row margin-t-30">
@@ -27,7 +28,7 @@ export default {
                   <h4>Import</h4>
                   <p
                     class="pt-2 text-muted"
-                  >Some quick example text to build on the card title and make up the bulk of the card's content. Moltin gives you the platform.</p>
+                  >We bring what you need right to your doorstep.</p>
                 </div>
               </div>
             </div>
@@ -40,7 +41,7 @@ export default {
                   <h4>Export</h4>
                   <p
                     class="pt-2 text-muted"
-                  >Credibly brand standards compliant users without extensible services. Anibh euismod tincidunt ut laoreet Ipsum passage.</p>
+                  >We send your goods to wherever you need them to be</p>
                 </div>
               </div>
             </div>
@@ -53,7 +54,7 @@ export default {
                   <h4>Consulting</h4>
                   <p
                     class="pt-2 text-muted"
-                  >Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean necessary regelialia.</p>
+                  >We offer consulting services to help you find the right choices for your business</p>
                 </div>
               </div>
             </div>
@@ -68,7 +69,7 @@ export default {
                   <h4>Medical Supplies</h4>
                   <p
                     class="pt-2 text-muted"
-                  >It is a paradisematic country, in which roasted parts of sentences fly into your mouth leave for the far World.</p>
+                  >We ship pharmaceuticals, surgical equipment, and other articles that you might use in a hospital or clinic.</p>
                 </div>
               </div>
             </div>
@@ -81,7 +82,7 @@ export default {
                   <h4>FMG Products</h4>
                   <p
                     class="pt-2 text-muted"
-                  >Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                  >We quickly deliver products which are time sensitive to you exactly when you need it.</p>
                 </div>
               </div>
             </div>
@@ -94,7 +95,7 @@ export default {
                   <h4>Spices</h4>
                   <p
                     class="pt-2 text-muted"
-                  >Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia.</p>
+                  >We transport chillies, peppers, and other spices for use in cooking.</p>
                 </div>
               </div>
             </div>
@@ -110,7 +111,7 @@ export default {
                   <h4>Supply On-Demand</h4>
                   <p
                     class="pt-2 text-muted"
-                  >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
+                  >We source from various sellers by using our vast network of agents to bring you the most bang for your buck</p>
                 </div>
               </div>
             </div>
@@ -123,7 +124,7 @@ export default {
                   <h4>Regular Supply Chain</h4>
                   <p
                     class="pt-2 text-muted"
-                  >Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.</p>
+                  >We regularly deliver consignments through our tightly connected network of raw material suppliers to make sure you never miss a consignments.</p>
                 </div>
               </div>
             </div>
@@ -136,7 +137,7 @@ export default {
                   <h4>Large Scale quantities</h4>
                   <p
                     class="pt-2 text-muted"
-                  >All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.</p>
+                  >If your needs are high, we can obtain goods from multiple sources to make sure your needs are fullfilled.</p>
                 </div>
               </div>
             </div>

@@ -45,14 +45,14 @@
               href="javascript: void(0);"
             >Services</a>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a
               v-scroll-to="{ el:'#about', offset: -5}"
               class="nav-link"
               data-scroll-spy-id="about"
               href="javascript: void(0);"
             >About</a>
-          </li>
+          </li> -->
           <li class="nav-item">
             <a
               v-scroll-to="{ el:'#testi', offset: -5}"
