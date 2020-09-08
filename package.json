@@ -20,5 +20,7 @@
     "vue-youtube": "^1.4.0",
     "vue2-scrollspy": "^2.3.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nuxt-purgecss": "^1.0.0"
+  }
 }
