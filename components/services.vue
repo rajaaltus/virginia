@@ -150,7 +150,7 @@ export default {
     <!--START WEBSITE-DESCRIPTION-->
     <section
       class="section bg-web-desc"
-      :style="{'background-image': 'url(' + require('@/assets/images/call.jpg') + ')', 'background-size': 'cover','background-position': 'center'}"
+      :style="{'background-image': 'url(' + '/images/call.jpg' + ')', 'background-size': 'cover','background-position': 'center'}"
     >
       <div class="bg-overlay"></div>
       <div class="container">
