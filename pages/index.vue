@@ -97,7 +97,7 @@
       <Services />
       <!-- <About /> -->
       <Testimonial />
-      <GetStarted />
+      <!-- <GetStarted /> -->
       <!-- <Blog /> -->
       <Contact />
       <Footer />

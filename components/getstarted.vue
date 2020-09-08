@@ -6,7 +6,7 @@ export default {
 
 <template>
   <!--START GET STARTED-->
-  <section class="section section-lg bg-get-start" :style="{'background': 'url(' + require('@/assets/images/img-2.jpg') + ')'}">
+  <section class="section section-lg bg-get-start" :style="{'background': 'url(' + '@/assets/images/img-2.jpg' + ')'}">
     <div class="bg-overlay"></div>
     <div class="container">
       <div class="row">
