@@ -31,7 +31,7 @@ export default {
         </div>
         <div class="col-lg-7 order-1 order-lg-2">
           <div class="features-img mx-auto mr-lg-0">
-            <img src="@/assets/images/about-img.png" alt="macbook image" class="img-fluid" />
+            <img src="/images/about-img.png" alt="macbook image" class="img-fluid" />
           </div>
         </div>
       </div>

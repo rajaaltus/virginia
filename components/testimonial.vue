@@ -24,7 +24,7 @@ export default {
                 <i class="mdi mdi-format-quote-open display-2"></i>
               </div>
               <img
-                src="@/assets/images/testimonials/user-1.jpg"
+                src="/images/testimonials/user-1.jpg"
                 alt
                 class="img-fluid mx-auto d-block img-thumbnail rounded-circle mb-4"
               />
@@ -47,7 +47,7 @@ export default {
                 <i class="mdi mdi-format-quote-open display-2"></i>
               </div>
               <img
-                src="@/assets/images/testimonials/user-2.jpg"
+                src="/images/testimonials/user-2.jpg"
                 alt
                 class="img-fluid mx-auto d-block img-thumbnail rounded-circle mb-4"
               />
@@ -70,7 +70,7 @@ export default {
                 <i class="mdi mdi-format-quote-open display-2"></i>
               </div>
               <img
-                src="@/assets/images/testimonials/user-3.jpg"
+                src="/images/testimonials/user-3.jpg"
                 alt
                 class="img-fluid mx-auto d-block img-thumbnail rounded-circle mb-4"
               />
