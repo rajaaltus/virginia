@@ -14,12 +14,12 @@ export default {
       <div class="row align-items-center">
         <div class="col-lg-5 order-2 order-lg-1">
           <div class="features-box mt-5 mt-lg-0">
-            <h3>A modern freight company bridging the gap between you and your goods</h3>
+            <h3>A modern merchandising company fixing the gap between your needs and your goods</h3>
             <p
               class="text-muted web-desc"
             >Get your goods delivered perfecty with no fuss. Whatever your business needs, We'll get it to you.</p>
             <ul class="text-muted list-unstyled margin-t-30 features-item-list">
-              <li class>Competitive rates. Personal service.</li>
+              <li class>Sourcing the right products.</li>
               <li class>Tailored to your requirements.</li>
               <li class>On-call 24 hours a day, 365 days a year.</li>
             </ul>
